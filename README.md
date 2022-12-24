@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hey, I'm Enes 👋
 
-- 🔭 I’m currently working on C# 
-- 🌱 I’m currently learning C# and Flutter & Dart
+- I’m currently working on C# 
+- I’m currently learning C# and Flutter & Dart
+- I'm currently a senior student at Computer Programming Department.
 
 <!--
 **EnesSariyildiz/enessariyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
