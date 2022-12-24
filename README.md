@@ -7,12 +7,19 @@
 - 🌱 I’m currently learning C# and Flutter & Dart
 - ⚡ I'm currently a senior student at Computer Programming Department.
 
+## Contact
+- [Linkedin](https://www.linkedin.com/in/enes-s-26441a230/)
+- [Instagram](https://www.instagram.com/enessariyildiz/)
 
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 ![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,cs,flutter,dart)
+
+
+
+
 
 <!--
 **EnesSariyildiz/enessariyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
