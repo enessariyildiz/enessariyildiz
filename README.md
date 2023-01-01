@@ -9,7 +9,7 @@
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/enes-s-26441a230/)
-- [Instagram](https://www.instagram.com/enessariyildiz/)
+// - [Instagram](https://www.instagram.com/enessariyildiz/)
 
 
 
