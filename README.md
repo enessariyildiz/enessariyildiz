@@ -1,10 +1,10 @@
 ### Hey, I'm Enes 👋
 <p>
-  I'm a software developer and i do freelance graphic design on social media. I usually work on the back-end, but now I'm learning mobile programming.
+  I'm a software developer and i do freelance graphic design on social media. I usually work on the back-end, but now I'm learning web&mobile programming.
   </p>
 
 - 🔭 I’m currently working on C# 
-- 🌱 I’m currently learning C# and Flutter & Dart
+- 🌱 I’m currently learning C# and Angular & JavaScript
 - ⚡ I'm currently a senior student at Computer Programming Department.
 
 ## Contact
@@ -14,7 +14,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,cs,flutter,dart)
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,cs)
 
 
 
