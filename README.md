@@ -5,8 +5,6 @@
   <hr>
 
 - 🔭 I’m currently working on C# 
-- 🌱 I’m currently learning C# and Angular & JavaScript
-- ⚡ I'm currently a senior student at Computer Programming Department.
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/enes-s-26441a230/)
