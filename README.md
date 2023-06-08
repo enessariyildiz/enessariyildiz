@@ -13,7 +13,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,cs,dotnet,ts,angular)
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,cs,dotnet)
 
 
 
