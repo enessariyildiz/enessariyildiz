@@ -1,6 +1,6 @@
 ### Hey, I'm Enes 👋
 <p>
-  I'm a software developer and i do freelance graphic design on social media. I usually work on the back-end, but now I'm learning web programming.
+  I'm a software developer and i do freelance graphic design on social media. I work on the backend in general.
   </p>
   <hr>
 
