@@ -7,7 +7,7 @@ I’m currently working on C#
   
 <h4>Contact</h4>
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.yourblogwebsite.com](https://enesdev.com/))
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([[https://www.yourblogwebsite.com](https://enesdev.com/)](https://enesdev.com/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-sar%C4%B1y%C4%B1ld%C4%B1z-26441a230)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enessariyildiz)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ens.sryldz)
