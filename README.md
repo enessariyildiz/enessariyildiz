@@ -1,6 +1,6 @@
 ### Hey, I'm Enes 👋
 <p>
-I'm a software developer with experience in the .NET ecosystem, working on scalable applications using C#, ASP.NET, and ASP.NET Core. I also have knowledge of creating user-friendly interfaces with React.js.
+I'm a software developer working in the full stack area. As a hobby, I'm interested in embedded software and electronics.
 </p>
 
   
